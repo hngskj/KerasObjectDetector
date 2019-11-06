@@ -120,3 +120,5 @@ Thanks goes to these beautiful peaple (github ID) :
 <p align="center">
   <img src="https://github.com/hngskj/KerasObjectDetector/blob/master/oss_sw_contribution_prize.jpg?raw=true" alt="">
 </p>
+
+[link](https://www.oss.kr/contributhon_notice/show/97fbde9f-3854-428d-b6ec-294002463148#)
