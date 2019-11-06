@@ -12,6 +12,7 @@ _You Only Look Keras_ <img width="50" height="27" src="https://user-images.githu
 <p align="center">
   <img width="509" height="276" src="https://github.com/KerasKorea/KerasObjectDetector/blob/develop/res/YOLKteam_object_dection.png?raw=true" alt="">
 </p>
+
 <p align="center">
 
 As a 2019 Open Source Countibuthon Project, we create Kears Object Detection API.  
@@ -114,3 +115,8 @@ Finally, API that can detect multiple objects in keras has been completed!! Ther
 ## Contributors
 Thanks goes to these beautiful peaple (github ID) :
 [@fuzzythecat](https://github.com/fuzzythecat), [@mijeongjeon](https://github.com/mijeongjeon), [@tykimos](https://github.com/tykimos), [@SooDevv](https://github.com/SooDevv), [@karl6885](https://github.com/karl6885), [@EthanJYK](https://github.com/EthanJYK), [@minus31](https://github.com/minus31), [김형섭](), [최민영](), [@mike2ox](https://github.com/mike2ox), [@hngskj](https://github.com/hngskj), [@hics33](https://github.com/hics33), [@aaajeong](https://github.com/aaajeong), [@parkjh688](https://github.com/parkjh688), [@Uwonsang](https://github.com/Uwonsang), [@simba328](https://github.com/simba328), [@visionNoob](https://github.com/visionNoob), [이혜리](), [@melonicedlatte](https://github.com/melonicedlatte), [전지영](), [@ahracho](https://github.com/ahracho)
+
+
+<p align="center">
+  <img src="https://github.com/hngskj/KerasObjectDetector/blob/master/oss_sw_contribution_prize.jpg?raw=true" alt="">
+</p>
